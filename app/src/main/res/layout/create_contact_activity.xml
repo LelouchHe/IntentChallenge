@@ -25,7 +25,7 @@
         android:ems="10"
         android:gravity="center"
         android:hint="Phone"
-        android:inputType="textPersonName" />
+        android:inputType="number" />
 
     <EditText
         android:id="@+id/etWeb"
